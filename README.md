@@ -1,7 +1,3 @@
-Certainly! Here's a revised version of the README:
-
----
-
 ### 👋 Hi there, I'm [Liza Saigina](https://github.com/lizasaigina)!
 
 🔬 I'm a passionate Data Scientist with a focus on Computer Vision and Machine Learning. With over 3 years of hands-on experience, I've been at the forefront of developing innovative solutions in the skincare industry, leveraging advanced algorithms to drive business growth and improve customer experiences.
@@ -13,9 +9,6 @@ Certainly! Here's a revised version of the README:
 🔍 **Current Projects**:
 - [GAN with Limited Data](https://gitlab.com/lizasaigina/gan_limited_data) - Exploring the capabilities of Generative Adversarial Networks.
 - [Hult Python Analytics](https://github.com/lizasaigina/hult-python-analytics) - A repository showcasing my analytical skills using Python.
-
-📊 **Analytics Aspirations**:
-While I'm gearing up to participate in analytics competitions and Kaggle challenges, my GitHub will serve as a platform to showcase my solutions and approaches in the near future.
 
 🛠 **Technical Expertise**:
 - **Primary Focus**: Computer Vision, Machine Learning, Data Analytics.
