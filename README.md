@@ -2,7 +2,7 @@
 
 🔬 Data Scientist specializing in Computer Vision and Machine Learning. With 3+ years of experience, I've innovated in the skincare sector, using algorithms to boost business and enhance user experiences.
 
-🌐 At [Haut.AI](https://haut.ai/), I introduced a pioneering computer vision algorithm for under-eye skin analysis, optimizing product recommendations and achieving 98% accuracy across diverse skin types.
+🌐 At [Haut.AI](https://haut.ai/), I introduced a pioneering computer vision algorithm for under-eye skin analysis, optimizing product recommendations across diverse skin types.
 
 🎓 I've also taken a year in International Business Masters to hone my management skills, teamwork experience, and deepen my understanding of product management and development.
 
