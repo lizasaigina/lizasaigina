@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm [Liza Saigina](https://github.com/lizasaigina)!
 
-🔬 I'm a passionate Data Scientist with a focus on Computer Vision and Machine Learning. With over 3 years of hands-on experience, I've been at the forefront of developing innovative solutions in the skincare industry, leveraging advanced algorithms to drive business growth and improve customer experiences.
+🔬 Data Scientist specializing in Computer Vision and Machine Learning. With 3+ years of experience, I've innovated in the skincare sector, using algorithms to boost business and enhance user experiences.
 
-🌐 At [Haut.AI](https://haut.ai/), I pioneered the development of the first computer vision algorithm for under-eye skin analysis. My work has been instrumental in enhancing product recommendations, driving sales, and ensuring the delivery of solutions that catered to diverse skin phenotypes with 98% accuracy across all demographics.
+🌐 At [Haut.AI](https://haut.ai/), I introduced a pioneering computer vision algorithm for under-eye skin analysis, optimizing product recommendations and achieving 98% accuracy across diverse skin types.
 
 🎓 I've also taken a year in International Business Masters to hone my management skills, teamwork experience, and deepen my understanding of product management and development.
 
