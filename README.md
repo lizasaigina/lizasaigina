@@ -1,19 +1,23 @@
 ### 👋 Hi there, I'm [Liza Saigina](https://github.com/lizasaigina)!
 
-🔬 Data Scientist specializing in Computer Vision and Machine Learning. With 3+ years of experience, I've innovated in the skincare sector, using algorithms to boost business and enhance user experiences.
+As the CTO & Co-Founder of [Wardrobers](https://wardrobers.co/), I'm at the forefront of merging AI with the fashion industry to offer a sustainable and personalized rental experience. My journey from a Data Scientist specializing in Computer Vision and Machine Learning to leading a tech startup reflects my passion for applying technology to solve real-world problems. My journey from a Data Scientist to leading a startup was motivated by my passion for harnessing AI and technology to create meaningful, user-centered solutions.
 
-🌐 At [Haut.AI](https://haut.ai/), I introduced a pioneering computer vision algorithm for under-eye skin analysis, optimizing product recommendations across diverse skin types.
+🚀 **What I'm focused on:**
+- Leading [Wardrobers'](https://wardrobers.co/) tech vision, driving innovations in AI for personalized outfit suggestions and virtual fitting rooms. Our mission is to revolutionize the way people think about fashion, making it more accessible, yet sustainable.
+- Implementing and managing our tech stack focusing on Google Cloud products, facilitating seamless full-stack engineering and deployment processes. While my role encompasses broad technical responsibilities, it aligns closely with creating a resilient, user-first platform.
 
-🎓 I've also taken a year in International Business Masters to hone my management skills, teamwork experience, and deepen my understanding of product management and development.
+💼 **Background Highlights:**
+- Extensive experience in AI & ML, demonstrated through projects like developing a pioneering computer vision algorithm at [Haut.AI](https://haut.ai/).
+- Proven leadership in tech innovation, managing cross-functional teams, and executing full-cycle software development projects.
+- Educational foundation with an MSc in International Business at Hult International Business School to sharpen my business acumen.
 
-🔍 **Current Projects**:
-- [GAN with Limited Data](https://gitlab.com/lizasaigina/gan_limited_data) - Exploring the capabilities of Generative Adversarial Networks.
-- [Hult Python Analytics](https://github.com/lizasaigina/hult-python-analytics) - A repository showcasing my analytical skills using Python.
+🛠 **Technical Expertise:**
+- **AI & ML**: Deep proficiency in Python (PyTorch, OpenCV), data visualization (Seaborn, Matplotlib), and ML deployment (GCP, Docker, Azure ML, GitHub CI/CD).
+- **Full-Stack Development**: Versatile in Python (FastAPI, Pydantic, SQLAlchemy), JavaScript, React, with a knack for creating scalable and efficient cloud-based applications.
+- **Leadership & Agile Management**: Skilled in leading projects from conception to launch, leveraging tools like Jira and Confluence to ensure seamless collaboration across teams.
 
-🛠 **Technical Expertise**:
-- **Primary Focus**: Computer Vision, Machine Learning, Data Analytics.
-- **Key Tools**: Python, SQL, PyTorch, OpenCV, Azure ML, and more.
+🌍 I'm currently seeking opportunities in the US that align with my expertise in data science, particularly in projects that leverage AI to make a positive impact.
 
-🔗 **Find me elsewhere**:
-- [GitLab](https://gitlab.com/lizasaigina) - For my professional skill development projects.
-- [LinkedIn](Your_LinkedIn_Profile_Link) - Connect with me!
+🔗 **Let's connect!**
+- [LinkedIn](https://linkedin.com/in/lizasaigina)
+- For a glimpse into my work and contributions, check out my [GitLab](https://gitlab.com/lizasaigina) and [GitHub]([https://github.com/lizasaigina](https://github.com/lizasaigina/hult-python-analytics)).
