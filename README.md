@@ -7,7 +7,7 @@ As the CTO & Co-Founder of [WARDROBERS](https://wardrobers.co/), aiming to merge
 - Implementing and managing our tech stack focusing on Google Cloud products, facilitating seamless full-stack engineering and deployment processes. While my role encompasses broad technical responsibilities, it aligns closely with creating a resilient, user-first platform.
 
 💼 **Background Highlights:**
-- Extensive experience in AI & ML, demonstrated through projects like developing a pioneering computer vision algorithm at [Haut.AI](https://haut.ai/).
+- Extensive experience in AI (Computer vision), demonstrated through projects like developing a pioneering computer vision algorithm at [Haut.AI](https://haut.ai/).
 - Proven leadership in tech innovation, managing cross-functional teams, and executing full-cycle software development projects.
 - Educational foundation with an MSc in International Business at [Hult International Business School](https://hult.edu/) to sharpen my business acumen.
 
