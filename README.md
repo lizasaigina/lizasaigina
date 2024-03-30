@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm [Liza Saigina](https://github.com/lizasaigina)!
 
-As the CTO & Co-Founder of [Wardrobers](https://wardrobers.co/), I'm at the forefront of merging AI with the fashion industry to offer a sustainable and personalized rental experience. My journey from a Data Scientist specializing in Computer Vision and Machine Learning to leading a tech startup reflects my passion for applying technology to solve real-world problems. My journey from a Data Scientist to leading a startup was motivated by my passion for harnessing AI and technology to create meaningful, user-centered solutions.
+As the CTO & Co-Founder of [Wardrobers](https://wardrobers.co/), aiming to merge AI with the fashion industry to offer a sustainable and personalized rental experience. My journey from a Data Scientist to leading a startup was motivated by my passion for harnessing AI and technology to create meaningful, user-centered solutions.
 
 🚀 **What I'm focused on:**
 - Leading [Wardrobers'](https://wardrobers.co/) tech vision, driving innovations in AI for personalized outfit suggestions and virtual fitting rooms. Our mission is to revolutionize the way people think about fashion, making it more accessible, yet sustainable.
@@ -9,7 +9,7 @@ As the CTO & Co-Founder of [Wardrobers](https://wardrobers.co/), I'm at the fore
 💼 **Background Highlights:**
 - Extensive experience in AI & ML, demonstrated through projects like developing a pioneering computer vision algorithm at [Haut.AI](https://haut.ai/).
 - Proven leadership in tech innovation, managing cross-functional teams, and executing full-cycle software development projects.
-- Educational foundation with an MSc in International Business at Hult International Business School to sharpen my business acumen.
+- Educational foundation with an MSc in International Business at [Hult International Business School](https://hult.edu/) to sharpen my business acumen.
 
 🛠 **Technical Expertise:**
 - **AI & ML**: Deep proficiency in Python (PyTorch, OpenCV), data visualization (Seaborn, Matplotlib), and ML deployment (GCP, Docker, Azure ML, GitHub CI/CD).
