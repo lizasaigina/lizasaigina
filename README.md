@@ -13,8 +13,8 @@ As the CTO & Co-Founder of [WARDROBERS](https://wardrobers.co/), aiming to merge
 
 🛠 **Technical Expertise:**
 - **AI & ML**: Deep proficiency in Python (PyTorch, OpenCV), data visualization (Seaborn, Matplotlib), and ML deployment (GCP, Docker, Azure ML, GitHub CI/CD).
-- **Full-Stack Development**: Versatile in Python (FastAPI, Pydantic, SQLAlchemy), JavaScript, React, with a knack for creating scalable and efficient cloud-based applications.
-- **Leadership & Agile Management**: Skilled in leading projects from conception to launch, leveraging tools like Jira and Confluence to ensure seamless collaboration across teams.
+- **Full-Stack Development**: Versatile in Python (FastAPI, Pydantic, SQLAlchemy), JavaScript, React.
+- **Leadership & Agile Management**: Skilled in leading team projects from conception to launch, leveraging tools like Jira and Confluence.
 
 🌍 I'm currently seeking opportunities in the US that align with my expertise in data science, particularly in projects that leverage AI to make a positive impact.
 
